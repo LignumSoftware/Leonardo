@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.MaNoS.DarcyRibeiro.Tech.Leonardo"
-        minSdkVersion 5
+        minSdkVersion 6
         targetSdkVersion 19
     }
 
