@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Leonardo</string>
+    <string name="action_settings">Configuração</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_sincronizartarefas">Sincronizar Tarefas</string>
+    <string name="action_sincronizarmaterias">Sincronizar Matérias</string>
+    <string name="action_sincronizartiposdetarefas">Sincronizar Tipos de Tarefas</string>
+    <string name="title_activity_config">ConfigActivity</string>
+    <string name="pick_time">Escolha a hora</string>
+</resources>
