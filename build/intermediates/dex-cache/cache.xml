@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/home/mateus/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jar="C:\Users\Mateus Terra\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="/media/mateus/DADOS/AndroidStudioProjects/Leonardo/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-e28ca6f3fcd149f6450cd24945406fa9ef59a633.jar" />
+        <dex dex="C:\Users\Mateus Terra\AndroidStudioProjects\Leonardo\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-f40cb7c85c8c1adaaa8083aef83097c62f697aea.jar" />
     </item>
 
 </items>

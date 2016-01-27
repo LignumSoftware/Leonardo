@@ -1,24 +1,24 @@
-<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"
         android:showAsAction="never"
-        android:title="@string/action_settings"/>
+        android:title="@string/action_settings" />
     <item
         android:id="@+id/action_sincronizartarefas"
         android:orderInCategory="100"
         android:showAsAction="never"
-        android:title="@string/action_sincronizartarefas"/>
+        android:title="@string/action_sincronizartarefas" />
     <item
         android:id="@+id/action_sincronizarmaterias"
         android:orderInCategory="100"
         android:showAsAction="never"
-        android:title="@string/action_sincronizarmaterias"/>
-   <item
+        android:title="@string/action_sincronizarmaterias" />
+    <item
         android:id="@+id/action_sincronizartiposdetarefas"
         android:orderInCategory="100"
         android:showAsAction="never"
-        android:title="@string/action_sincronizartiposdetarefas"/>
+        android:title="@string/action_sincronizartiposdetarefas" />
 </menu>
-<!-- From: file:/media/mateus/DADOS/AndroidStudioProjects/Leonardo/app/src/main/res/menu/main.xml -->
+<!-- From: file:/C:/Users/Mateus%20Terra/AndroidStudioProjects/Leonardo/app/src/main/res/menu/main.xml -->
